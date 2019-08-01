@@ -1,0 +1,19 @@
+img {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  width: auto !important;
+}
+
+.emoji {
+  font-size: 1.5em;
+}
+
+.dark-bg {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.away {
+  margin: 1em !important;
+  padding: 1em !important;
+}
