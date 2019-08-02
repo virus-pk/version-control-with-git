@@ -2,9 +2,9 @@
   "name": "version-control-with-git",
   "version": "1.0.0",
   "description": "Learn Git and Git Flows",
-  "main": "index.js",
   "scripts": {
-    "start": "reveal-md --theme blood --highlightTheme hybrid --port 1337 --css styles.css --scripts script.js README.md"
+    "start": "reveal-md --theme blood --highlightTheme hybrid --port 1337 --css styles.css --scripts script.js README.md",
+    "print": "reveal-md README.md --print slides.pdf"
   },
   "author": "Tauqeer Ahmad",
   "license": "ISC"
